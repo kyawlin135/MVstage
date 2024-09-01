@@ -389,6 +389,10 @@ html {
   .contact-con {
     margin: 0 auto;
   }
+
+    .contact-us {
+    height: fit-content;
+  }
 }
 
 /* media */
